@@ -34,5 +34,4 @@ Este bot está configurado para responder a los comandos /start y /help con mens
 libreria para desarrollar el funcionamiento del bot en python.
 
 - <a href="https://github.com/eternnoir/pyTelegramBotAPI#getting-started">pyTelegramBotAPI
-</a>
-repositorio github
+</a> repositorio github
