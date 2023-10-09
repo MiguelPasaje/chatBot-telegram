@@ -31,4 +31,8 @@ Este bot está configurado para responder a los comandos /start y /help con mens
 - <a href="https://core.telegram.org/api">Api Telegram Bot </a>
 
 - <a href="https://pytba.readthedocs.io/en/latest/quick_start.html">Quick start</a>
-libreria para desarrollar el funcionamiento del bot en python
+libreria para desarrollar el funcionamiento del bot en python.
+
+- <a href="https://github.com/eternnoir/pyTelegramBotAPI#getting-started">pyTelegramBotAPI
+</a>
+repositorio github
