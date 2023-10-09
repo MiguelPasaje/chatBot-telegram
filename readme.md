@@ -26,3 +26,6 @@ python mi_chatbot.py
 ```
 #### Uso
 Este bot está configurado para responder a los comandos /start y /help con mensajes predeterminados. Puedes personalizar las respuestas y agregar funcionalidades adicionales según tus necesidades.
+
+### Referencias
+<a href="https://core.telegram.org/api">Api Telegram Bot </a>
