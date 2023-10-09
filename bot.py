@@ -5,8 +5,7 @@ bot = telebot.TeleBot(TOKEN, parse_mode=None) # You can set parse_mode by defaul
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
-    print('->')
-    print(message.text == '/start')
+    
     if message.text == '/start':
         bot.reply_to(message, "Howdy, how are you doing?")
     else:
